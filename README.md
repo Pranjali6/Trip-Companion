@@ -10,17 +10,25 @@ Features:
 5) Data Filtering: Filter search results to find exactly what you're looking for. This filtering can be done on the basis of rating.
 6) User-Friendly Interface: An intuitive and easy-to-use interface to enhance your travel planning
 
-Pictures:
-1)Viewing all the Attractions.
-![Screenshot (383)](https://github.com/user-attachments/assets/bfa4445e-84a1-4ef9-880a-3ec1073dc3ac)
-2) Viewing all the Restaurants
-![Screenshot (381)](https://github.com/user-attachments/assets/54dbc1ca-e465-4022-a752-5b3aeaf59b0c)
-3)Viewing all the Hotels
-![Screenshot (382)](https://github.com/user-attachments/assets/b06681aa-f10c-424f-a33b-2e8a130f1691)
-
-
 Technologies Used:
 
 Frontend: React.js
 
 APIs: Google Maps API, Rapid APIs for restaurants, hotels, and attractions and Weather information
+
+Pictures:
+
+1)Viewing all the Attractions.
+
+![Screenshot (383)](https://github.com/user-attachments/assets/bfa4445e-84a1-4ef9-880a-3ec1073dc3ac)
+
+2) Viewing all the Restaurants
+   
+![Screenshot (381)](https://github.com/user-attachments/assets/54dbc1ca-e465-4022-a752-5b3aeaf59b0c)
+
+3)Viewing all the Hotels
+
+![Screenshot (382)](https://github.com/user-attachments/assets/b06681aa-f10c-424f-a33b-2e8a130f1691)
+
+
+
