@@ -1,4 +1,5 @@
- An Advanced Travel Companion Application designed to be your ultimate travel advisor, leveraging the power of Google Maps and various specialized APIs to bring you a seamless and comprehensive travel experience.
+ An Advanced Travel Companion Application designed to be your ultimate Trip Companion, designed for tourists seeking the best dining experiences,Hotels and Attractions, leveraging the power of Google Maps and various specialized APIs to bring you a seamless and comprehensive travel experience.
+
 
 Features:
 
@@ -12,4 +13,5 @@ Features:
 Technologies Used:
 
 Frontend: React.js
+
 APIs: Google Maps API, Rapid APIs for restaurants, hotels, and attractions and Weather information
